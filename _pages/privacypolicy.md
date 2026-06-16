@@ -4,6 +4,8 @@ title: Privacy Policy
 include_in_header: false
 ---
 
+# Privacy Policy
+
 **Effective Date:** June 16, 2026
 
 Thank you for using upliNK.
